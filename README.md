@@ -73,7 +73,7 @@ To find the actual name of the bad actor, an exif tool may be able to find the a
 Most of the remaining questions are able to be answered directly from the .eml file given at the beginning of the lab. For question 1, the email service can be found in the same area with all of the spf failures. More specifically in this situation, it is found in the Received: from localhost area where emkei.cz is given along with the ip address associated with it. For question 2, the Reply-To email address that was highlighted earlier, negeja3921@pashter.com, is the correct answer. For question 3, the PuzzleToCoCanDa.pdf file attachment provides the answer as it was actually a .zip file. For question 5, the location that was found from the Money.xlsx file on Sheet3 showed that the location was The Martian Colony, Beside Interplanetary Spaceport. Finally, the probable C&C domain to control the attacker's autonomous bots was assumed to be the same domain given in the Reply-To email address, that being pashter.com.
 _________________________________________________________________________________________________________________
 
-#Review/Learnings
+# Review/Learnings
 
 This lab gave a lot of insight into many different tools, both online and offline executables, that can be used to decipher emails to find potentially suspicious activity. For example, one of the first things that stood out was the SPF failure. There are many other email security measures such as DKIM and DMARC that would serve as a similar key indicator that something could be malicious with given emails. There are also many free and easliy accessible tools that can be used to break down pieces of information into smaller and more digestible parts to find more clues into if they are malicious or not.
 
