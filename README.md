@@ -1,5 +1,5 @@
 # Phishing Email Analysis Lab
-This is a lab report/walkthrough of <a href="https://blueteamlabs.online/home/challenge/the-planets-prestige-e5beb8e545">'The Planet's Prestige'</a> lab from Blue Team Labs. The premise of this CTF lab is to analyze the .eml file from an email exchange to find any suspicious/malicious intentions behind the attachments, message, or means of communication used.
+This is a lab report/walkthrough of <a href="https://blueteamlabs.online/home/challenge/the-planets-prestige-e5beb8e545">'The Planet's Prestige'</a> lab from Blue Team Labs Online. The premise of this CTF lab is to analyze the .eml file from an email exchange to find any suspicious/malicious intentions behind the attachments, message, or means of communication used.
 ___________________________________________________________________________________________________________________________________________
 
 ## Lab walkthrough with screenshots
