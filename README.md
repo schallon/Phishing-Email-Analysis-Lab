@@ -2,6 +2,17 @@
 This is a lab report/walkthrough of <a href="https://blueteamlabs.online/home/challenge/the-planets-prestige-e5beb8e545">'The Planet's Prestige'</a> lab from Blue Team Labs Online. The premise of this CTF lab is to analyze the .eml file from an email exchange to find any suspicious/malicious intentions behind the attachments, message, or means of communication used.
 ___________________________________________________________________________________________________________________________________________
 
+## Tools Used
+
+- VMware(Win10 Virtual Machine)
+- Notepad++
+- HxD(Hexidecimal)
+- 7zip
+- OpenOffice
+- CyberChef(Base64 Decoding)
+
+____________________________________________________________________________________________________________________________________________
+
 ## Lab walkthrough with screenshots
 
 When opening the .eml provided in Notepad++, the following information is shown as in the screenshot below.
